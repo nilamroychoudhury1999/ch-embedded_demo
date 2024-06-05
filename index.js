@@ -1,3 +1,5 @@
+npm install @mui/material @emotion/react @emotion/styled
+
 import React from 'react';
 import { Grid, Paper, Typography } from '@mui/material';
 import { StyledPaper, GridItem, Container } from './styles';
